@@ -22,5 +22,5 @@ This project currently needs a feasibility study and a conceptual solution.
 It requires exploring what Python EEG libraries can do, and whether there is an AI-based complex event processing.
 This Python project will only sense neural activity via EEG and match patterns against rules.
 Upon matching a rule, the action from that rule will be executed, i.e. to play an audio message.
-The message will play on your computer via its sound card. You will only need to have earplugs or headphones plugged in.
+The message will play on your computer via its sound card. You will only need to have earbuds or headphones plugged in.
 
