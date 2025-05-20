@@ -26,7 +26,7 @@ A conceptual solution is available:
 
 **Neural monitoring** (mind reading) and **neural stimulation** (mind control) are functions of a  
 **Bi-directional Brain Computer Interface** (BCI) for communication and control:  
-🔗 [Scientific source](https://www.sciencedirect.com/science/article/abs/pii/S1388245702000573?via%3Dihub)
+🔗 https://www.sciencedirect.com/science/article/abs/pii/S1388245702000573?via%3Dihub
 
 The mind is the **central nervous system**, also known as the brain.
 
@@ -39,7 +39,7 @@ a **computer** analyzes data collected from your mind,
 **automatically decides**, and **executes responses**.
 
 One US black project is called **Sentient**. It is an artificial brain:  
-🔗 [Wikipedia – Sentient](https://en.wikipedia.org/wiki/Sentient_(intelligence_analysis_system))  
+🔗 https://en.wikipedia.org/wiki/Sentient_(intelligence_analysis_system)  
 It can process data from sensors and respond with actions via actuators.
 
 ---
