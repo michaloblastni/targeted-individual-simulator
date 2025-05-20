@@ -18,37 +18,30 @@ Instead of explaining, he/she will be able to show this simulator to people and 
 As soon as someone tries it, they will likely agree that there is **someone else behind it**,  
 doing it **on purpose** due to the **content of the messages**. It is electronics.
 
----
-
 ## Current State
 
 A conceptual solution is available:
 
-**Neural monitoring** (mind reading) and **neural stimulation** (mind control) are functions of a  
-**Bi-directional Brain Computer Interface** (BCI) for communication and control:  
-🔗 https://www.sciencedirect.com/science/article/abs/pii/S1388245702000573?via%3Dihub
+Neural monitoring (mind reading) and neural stimulation (mind control) are functions of a  
+Bi-directional Brain Computer Interface (BCI) for communication and control: 🔗 https://www.sciencedirect.com/science/article/abs/pii/S1388245702000573?via%3Dihub
 
-The mind is the **central nervous system**, also known as the brain.
+The mind is the central nervous system, also known as the brain.
 
-Because the human brain is connected to the whole body via the **peripheral nervous system**,  
-mind control (neural stimulation) allows controlling a person’s **whole body**,  
-in addition to controlling their **thoughts**.
+Because the human brain is connected to the whole body via the peripheral nervous system,  
+mind control (neural stimulation) allows controlling a person’s whole body,  
+in addition to controlling their thoughts.
 
-In a **Bi-Directional BCI** (for neural monitoring and modulation),  
-a **computer** analyzes data collected from your mind,  
-**automatically decides**, and **executes responses**.
+In a Bi-Directional BCI (for neural monitoring and modulation), a computer analyzes data collected from your mind, automatically decides, and executes responses.
 
-One US black project is called **Sentient**. It is an artificial brain:  
+One US black project is called Sentient. It is an artificial brain:  
 🔗 https://en.wikipedia.org/wiki/Sentient_(intelligence_analysis_system)  
 It can process data from sensors and respond with actions via actuators.
 
----
-
 ## How It Works
 
-The computer runs an application using the **forward-chaining algorithm**.  
-This algorithm executes **rules** that detect **situations** and responds to them.  
-*Not all situations need a response.*
+The computer runs an application using the forward-chaining algorithm.  
+This algorithm executes rules that detect situations and responds to them.  
+Not all situations need a response.
 
 ### ▶️ Forward Chaining
 
