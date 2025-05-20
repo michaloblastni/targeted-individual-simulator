@@ -2,21 +2,21 @@
 
 ## Goal
 
-The goal is that the only difference between a **targeted individual** and a person on the **simulator**  
+The goal is that the only difference between a targeted individual and a person on the simulator  
 should be that a person on the simulator can remove the BCI device to make it stop.  
 Everything else should strive to be **100% exactly the same**.
 
 ## Benefits
 
-When the issue becomes **reproducible using a simulator**, other people can work toward suggestions that  
+When the issue becomes reproducible using a simulator, other people can work toward suggestions that  
 may solve the targeting, or at least make the situation better for **10,000+ targeted individuals**.
 
-Another benefit of this project is that a targeted individual will not have to **explain anything**.  
+Another benefit of this project is that a targeted individual will not have to explain anything.  
 Instead of explaining, he/she will be able to show this simulator to people and tell them to try it.  
-**Targeted individuals can have this simulator working at home.**
+Targeted individuals can have this simulator working at home.
 
-As soon as someone tries it, they will likely agree that there is **someone else behind it**,  
-doing it **on purpose** due to the **content of the messages**. It is electronics.
+As soon as someone tries it, they will likely agree that there is someone else behind it,  
+doing it on purpose due to the content of the messages. It is electronics.
 
 ## Current State
 
