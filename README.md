@@ -68,11 +68,9 @@ Open-source research proof of concept:
 https://github.com/LTU-Machine-Learning/Rethinking-Methods-Inner-Speech
 
 If you're familiar with mathematics or computer science,
-ChatGPT can generate a forward chaining proof of concept
-to illustrate how inner speech can be processed.
+you can develop a proof of concept of forward chaining to illustrate how inner speech can be processed.
 
-Carnegie Mellon University has developed a bi-directional BCI
-that can respond directly by modulating neural activity:
+Carnegie Mellon University has developed a bi-directional BCI that can respond directly by modulating neural activity:
 https://www.cmu.edu/news/stories/archives/2024/june/breakthrough-approach-enables-bidirectional-bci-functionality
 
 By combining these concepts at home with an ordinary 16-channel EEG,
