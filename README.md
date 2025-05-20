@@ -30,10 +30,12 @@ One US black project is called Sentient. It is an artificial brain https://en.wi
 
 Inside the artificial brain (Sentient) and other similar computer systems:
 ##########################################################################
+
 The computer runs an application that applies the forward-chaining algorithm. The algorithm executes rules that detect situations and responds to them. Not all situations need to be responded.
 
 Forward chaining
 ################
+
 IF inner_speech = "someone may be stalking me because I hear these insults that are personal"
 
 AND emotion = rising anger
@@ -42,6 +44,7 @@ THEN modulate neural activity to play fake voice exactly at time other people pa
 
 Backward chaining
 #################
+
 GOAL: Prevent verbal report to a third party
 
 IF intent = "speak to police"
