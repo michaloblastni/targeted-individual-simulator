@@ -55,13 +55,15 @@ This algorithm executes **rules** that detect **situations** and responds to the
 ```text
 IF inner_speech = "someone may be stalking me because I hear these insults that are personal"
 AND emotion = rising anger
-THEN modulate neural activity to play fake voice exactly at time other people pass by```
+THEN modulate neural activity to play fake voice exactly at time other people pass by
+```
 
 ### ◀️ Backward Chaining
 ```text
 GOAL: Prevent verbal report to a third party
 IF intent = "speak to police"
-THEN modulate neural activity to cause disorganization and play fake stories```
+THEN modulate neural activity to cause disorganization and play fake stories
+```
 
 🔗 https://www.geeksforgeeks.org/difference-between-backward-and-forward-chaining/
 
