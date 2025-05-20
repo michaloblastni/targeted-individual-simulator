@@ -55,7 +55,7 @@ THEN modulate neural activity to play fake voice exactly at time other people pa
 ```text
 GOAL: Prevent verbal report to a third party
 IF intent = "speak to police"
-THEN modulate neural activity to cause disorganization and play fake stories
+THEN modulate neural activity to cause disorganization and play disinformation stories (legends)
 ```
 
 🔗 https://www.geeksforgeeks.org/difference-between-backward-and-forward-chaining/
