@@ -33,7 +33,7 @@ in addition to controlling their thoughts.
 
 In a Bi-Directional BCI (for neural monitoring and modulation), a computer analyzes data collected from your mind, automatically decides, and executes responses.
 
-One US black project is called Sentient. It is an artificial brain:  
+One US https://en.wikipedia.org/wiki/Black_project is called Sentient. It is an artificial brain:  
 🔗 https://en.wikipedia.org/wiki/Sentient_(intelligence_analysis_system)  
 It can process data from sensors and respond with actions via actuators.
 
