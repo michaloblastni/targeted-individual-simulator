@@ -1,4 +1,4 @@
-# Simulator 0.1.0 – Real-time Neural Monitoring and Control
+# Simulator 0.1.0 (Real-time Neural Monitoring and Control)
 
 ## Goal
 
