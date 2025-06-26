@@ -25,8 +25,7 @@ Rather, it is a conceptual tool to promote dialogue, system awareness, and techn
 1. Intelligence collection can be acheived using a cam, mic, EEG, possibly with electrodes for long-term wearing
 EEG data interpretation requires a solution similar to Thought2Text https://github.com/abhijitmishra/Thought2Text to analyze what the user sees and thinks. The experiment will be realistic when the EEG device will support bluetooth to avoid wires.
 
-2. Intelligence analysis with automated responses can be achieved using forward chaining, or backward chaining. Or, for a quick PoC an LLM can be used. For the LLM to work, it has to be trained using custom rules based on situation-response. The model will be trained based on real situations and responses reported by self-identified targeted individuals.
-
+2. Intelligence analysis with automated responses can be achieved using forward chaining and backward chaining. Or, for a quick PoC an LLM can be used such Mistral. For the LLM to work, it has to be extended by training it using custom rules based on situation-response. The model will be trained based on real situations and responses reported by self-identified targeted individuals.
 
 3. Automated responding can be limited to playing a voice. This can be produced using text to speech that reads the reaction produced by LLM.
 
