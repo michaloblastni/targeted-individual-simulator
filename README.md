@@ -32,5 +32,5 @@ EEG data interpretation requires a solution similar to Thought2Text https://gith
 4. The delivery of a response can be played via earbuds, or using a technology such as Audio Splotlight https://www.holosonics.com/ The latter solution allows experiments where only you can hear the responses.
 
 
-Remark: the only significant challenge to overcome is the decoding of EEG into text. Publicly available solutions are PoCs rather than production use.
+Remark: the only significant challenge to overcome is the decoding of EEG into text. Publicly available solutions are PoCs rather than production use. Hardware with 16 channels costs around $1000.
 
