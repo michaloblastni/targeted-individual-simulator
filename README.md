@@ -20,7 +20,7 @@ similar to the experiences reported by many self-identified Targeted Individuals
 This does **not** claim that such technology currently exists in this form or is deployed by governments or other actors.  
 Rather, it is a conceptual tool to promote dialogue, system awareness, and technical exploration of these ideas.
 
-## Design of a sense and respond system
+## Design of a Sense and Respond System
 
 1. Intelligence collection can be acheived using a cam, mic, EEG, possibly with electrodes for long-term wearing
 EEG data interpretation requires a solution similar to Thought2Text https://github.com/abhijitmishra/Thought2Text to analyze what the user sees and thinks. The experiment will be realistic when the EEG device will support bluetooth to avoid wires.
