@@ -1,4 +1,4 @@
-# Targeted Individual Simulator (v0.1.1)
+# Targeted Individual Simulator (v0.1.2)
 
 ## ⚠️ Disclaimer
 
@@ -11,6 +11,19 @@ If you're a computer scientist, or neuroscientist, this project may offer a test
 - model perception-based interactions,
 - simulate psychological stress scenarios,
 - explore the ethical boundaries of emerging BCI technologies.
+
+## Design
+Sense and respond system.
+
+Intelligence collection can be acheived using a cam, mic, EEG, possibly with electrodes for long-term wearing
+EEG data interpretation requires a solution similar to Thought2Text https://github.com/abhijitmishra/Thought2Text to analyze what the user sees and thinks.
+Intelligence analysis with automated responses can be achieved using forward chaining, or backward chaining. Or, for a quick PoC an LLM can be used.
+Automated responding can be limited to playing a voice. This can be produced using text to speech that reads the reaction produced by LLM.
+The delivery of a response can be played via earbuds, or using a technology such as Audio Splotlight https://www.holosonics.com/ The latter solution allows experiments where only you can hear the responses.
+
+For the solution to work, the LLM has to be trained using custom rules based on situation-response. The experiment will be realistic when the EEG device will support bluetooth to avoid wires, and the model will be trained based on real responses reported by self-identified targeted individuals.
+
+Remark: the only challenge to overcome is the decoding of EEG into text. Publicly available solutions are PoCs rather than production use, accurate models.
 
 ## 🚀 Goal
 
