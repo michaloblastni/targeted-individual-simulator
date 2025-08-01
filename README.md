@@ -21,7 +21,8 @@ This does **not** claim that such technology currently exists in this form or is
 Rather, it is an experimental tool to promote dialogue, system awareness, and technical exploration of these ideas.
 
 ## Conceptual design of a Sense and Respond System
-The concept is an Intelligent (Autonomous) Agent. It can be modeled conceptually as the sense, reason and act framework.
+The system is an Intelligent (Autonomous) Agent https://en.wikipedia.org/wiki/Intelligent_agent
+It can be modeled conceptually as the sense, reason and act framework.
 
 # Physical design
 $5 electronics can implement the sense, reason and act framework. It is a voice recognition agent: 
