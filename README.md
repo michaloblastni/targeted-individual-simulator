@@ -18,7 +18,7 @@ The goal is to simulate an environment where a person *feels* persistently surve
 similar to the experiences reported by many self-identified Targeted Individuals — but in a **safe, local, and removable way**.
 
 This does **not** claim that such technology currently exists in this form or is deployed by governments or other actors.  
-Rather, it is a conceptual tool to promote dialogue, system awareness, and technical exploration of these ideas.
+Rather, it is an experimental tool to promote dialogue, system awareness, and technical exploration of these ideas.
 
 ## Conceptual design of a Sense and Respond System
 
@@ -44,4 +44,4 @@ It is programmable, so you can add rules to make it pick up particular things yo
 
 The only missing part is a BCI that can sense the human inner voice and decode it into audible speech (Thought to speech) and its opposite, a BCI that can stimulate a human brain to produce a human inner voice with a reply from the electronics (Speech to thought).
 
-Until thought to speech and speech to tought are researched and developed, the simulator can be evaluated by speaking aloud while thinking. For that, it can be equipped with sample rules based on real-world data collected from people who identify themselves as targeted.
+Until thought to speech and speech to tought are researched and developed, the simulator can be executed by speaking aloud while you're thinking. The electronics will pick it up and reply based on rules. Sample rules will be based on real-world data collected from people who identify themselves as targeted.
