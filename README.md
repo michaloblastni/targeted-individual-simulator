@@ -21,18 +21,7 @@ This does **not** claim that such technology currently exists in this form or is
 Rather, it is an experimental tool to promote dialogue, system awareness, and technical exploration of these ideas.
 
 ## Conceptual design of a Sense and Respond System
-
-1. Intelligence collection can be acheived using a cam, mic, EEG, possibly with electrodes for long-term wearing.
-EEG data interpretation requires a solution similar to Thought2Text https://github.com/abhijitmishra/Thought2Text to analyze what the user sees and thinks. The experiment will be realistic when the EEG device will support bluetooth to avoid wires.
-
-2. Intelligence analysis with automated responses can be achieved using forward chaining and backward chaining. Or, for a quick PoC an LLM can be used such Mistral. For the LLM to work, it has to be extended by training it using custom rules based on situation-response. The model will be trained based on real situations and responses reported by self-identified targeted individuals.
-
-3. Automated responding can be limited to playing a voice. This can be produced using text to speech that reads the reaction produced by LLM.
-
-4. The delivery of a response can be played via earbuds, or using a technology such as Audio Splotlight https://www.holosonics.com/ The latter solution allows experiments where only you can hear the responses.
-
-
-Remark: the only significant challenge to overcome is the decoding of EEG into text. Publicly available solutions are PoCs rather than production use. Hardware with 16 channels costs around $1000.
+The concept is an Intelligent (Autonomous) Agent. It can be modeled conceptually as the sense, reason and act framework.
 
 # Physical design
 $5 electronics can implement the sense, reason and act framework. It is a voice recognition agent: 
@@ -40,8 +29,15 @@ https://www.youtube.com/watch?v=dAqX4CmozfM&ab_channel=techiesms
 
 The electronics can be purchased at https://www.aliexpress.com/item/1005008356177308.html 
 
-It is programmable, so you can add rules to make it pick up particular things you say and respond to them.
+It is programmable, so you can add rules to make it pick up particular things you say and respond to them. Programming can leverage forward chaining and backward chaining to infer situations that can be automatically responded, or achieve pre-defined goals.
 
 The only missing part is a BCI that can sense the human inner voice and decode it into audible speech (Thought to speech) and its opposite, a BCI that can stimulate a human brain to produce a human inner voice with a reply from the electronics (Speech to thought).
 
 Until thought to speech and speech to tought are researched and developed, the simulator can be executed by speaking aloud while you're thinking. The electronics will pick it up and reply based on rules. Sample rules will be based on real-world data collected from people who identify themselves as targeted.
+
+# Extension for a more genuine sensing experience
+The simulator can work without having to speak loud while you're thinking. This can be achieved using Thought2Text https://github.com/abhijitmishra/Thought2Text It is currently an EEG-based solution. It is not ready for production use. An EEG device with 16 channels costs around $1000.
+
+# Extension for a more genuine stimulation experience
+The simulator can work without anyone else hearing what it tells you. This can be achieved by replacing the speaker that comes in the $5 kit with Audio Splotlight, however a cheapest unit costs $1,299 https://www.touchwindow.com/p/AS-168iX.html
+
