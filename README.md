@@ -25,7 +25,7 @@ The system is an Intelligent (Autonomous) Agent https://en.wikipedia.org/wiki/In
 It can be modeled conceptually as the sense, reason and act framework.
 
 # Physical design
-$5 electronics can implement the sense, reason and act framework. It is an offline voice recognition agent that reasons and acts (incl. by responding with text to voice): 
+$5 electronics can implement the sense, reason and act framework. It is an offline voice recognition agent that reasons and acts (incl. by responding with voice): 
 https://www.youtube.com/watch?v=dAqX4CmozfM&ab_channel=techiesms
 
 The electronics can be purchased at https://www.aliexpress.com/item/1005008356177308.html 
