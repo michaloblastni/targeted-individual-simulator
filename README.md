@@ -20,7 +20,7 @@ similar to the experiences reported by many self-identified Targeted Individuals
 This does **not** claim that such technology currently exists in this form or is deployed by governments or other actors.  
 Rather, it is an experimental tool to promote dialogue, system awareness, and technical exploration of these ideas.
 
-## Conceptual design of a Sense and Respond System
+## Conceptual design
 The system is an Intelligent (Autonomous) Agent https://en.wikipedia.org/wiki/Intelligent_agent
 It can be modeled conceptually as the sense, reason and act framework.
 
