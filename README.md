@@ -35,11 +35,13 @@ EEG data interpretation requires a solution similar to Thought2Text https://gith
 Remark: the only significant challenge to overcome is the decoding of EEG into text. Publicly available solutions are PoCs rather than production use. Hardware with 16 channels costs around $1000.
 
 # Physical design
-$5 electronics allows sensing, reasoning and acting. It is a voice recognition agent: 
+$5 electronics can implement the sense, reason and act framework. It is a voice recognition agent: 
 https://www.youtube.com/watch?v=dAqX4CmozfM&ab_channel=techiesms
 
 The electronics can be purchased at https://www.aliexpress.com/item/1005008356177308.html 
 
 It is programmable, so you can add rules to make it pick up particular things you say and respond to them.
 
-The only missing part is a BCI that can sense the human inner voice and decode it into audible speech (Brain to speech) and its opposite, a BCI that can stimulate a human brain to produce a human inner voice with a reply from the electronics (Speech to brain).
+The only missing part is a BCI that can sense the human inner voice and decode it into audible speech (Thought to speech) and its opposite, a BCI that can stimulate a human brain to produce a human inner voice with a reply from the electronics (Speech to thought).
+
+Until thought to speech and speech to tought are researched and developed, the simulator can be evaluated by speaking aloud while thinking. For that, it can be equipped with sample rules based on real-world data collected from people who identify themselves as targeted.
