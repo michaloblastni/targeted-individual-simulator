@@ -1,4 +1,4 @@
-# Targeted Individual Simulator (v0.1.2)
+# Targeted Individual Simulator (v0.2.0)
 
 ## ⚠️ Disclaimer
 
@@ -20,7 +20,7 @@ similar to the experiences reported by many self-identified Targeted Individuals
 This does **not** claim that such technology currently exists in this form or is deployed by governments or other actors.  
 Rather, it is a conceptual tool to promote dialogue, system awareness, and technical exploration of these ideas.
 
-## Design of a Sense and Respond System
+## Conceptual design of a Sense and Respond System
 
 1. Intelligence collection can be acheived using a cam, mic, EEG, possibly with electrodes for long-term wearing.
 EEG data interpretation requires a solution similar to Thought2Text https://github.com/abhijitmishra/Thought2Text to analyze what the user sees and thinks. The experiment will be realistic when the EEG device will support bluetooth to avoid wires.
@@ -34,3 +34,12 @@ EEG data interpretation requires a solution similar to Thought2Text https://gith
 
 Remark: the only significant challenge to overcome is the decoding of EEG into text. Publicly available solutions are PoCs rather than production use. Hardware with 16 channels costs around $1000.
 
+# Physical design
+$5 electronics allows sensing, reasoning and acting. It is a voice recognition agent: 
+https://www.youtube.com/watch?v=dAqX4CmozfM&ab_channel=techiesms
+
+The electronics can be purchased at https://www.aliexpress.com/item/1005008356177308.html 
+
+It is programmable, so you can add rules to make it pick up particular things you say and respond to them.
+
+The only missing part is a BCI that can sense the human inner voice and decode it into audible speech (Brain to speech) and its opposite, a BCI that can stimulate a human brain to produce a human inner voice with a reply from the electronics (Speech to brain).
