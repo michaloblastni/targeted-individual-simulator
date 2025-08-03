@@ -1,4 +1,4 @@
-# Targeted Individual Simulator (v0.2.0)
+# Targeted Individual Simulator (v0.2.1)
 
 ## ⚠️ Disclaimer
 
@@ -34,10 +34,11 @@ It is programmable, so you can add rules to make it pick up particular things yo
 
 The only missing part is a BCI that can sense the human inner voice and decode it into audible speech (Thought to speech) and its opposite, a BCI that can stimulate a human brain to produce a human inner voice with a reply from the electronics (Speech to thought).
 
-Until thought to speech and speech to tought are researched and developed, the simulator can be executed by speaking aloud while you're thinking. The electronics will pick it up and reply based on rules. Sample rules will be based on real-world data collected from people who identify themselves as targeted.
+Until thought to speech and speech to tought are researched and developed, the simulator can be executed by speaking aloud while you're thinking. The electronics will pick it up and reply based on rules. Sample rules will be based on real-world data collected from people who identify themselves as targeted. 
 
 # Extension for a more genuine sensing experience
 The simulator can work without having to speak loud while you're thinking. This can be achieved using Thought2Text https://github.com/abhijitmishra/Thought2Text It is currently an EEG-based solution. It is not ready for production use. An EEG device with 16 channels costs around $1000.
+One possible breakthrough design that realizes Thought to speech via fMRI: https://www.nature.com/articles/s41593-023-01304-9 
 
 # Extension for a more genuine stimulation experience
 The simulator can work without anyone else hearing what it tells you. This can be achieved by replacing the speaker that comes in the $5 kit with Audio Splotlight, however the cheapest unit Holosonics AS-168iX costs $1,299 https://www.touchwindow.com/p/AS-168iX.html
