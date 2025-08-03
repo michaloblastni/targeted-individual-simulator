@@ -43,3 +43,10 @@ One possible breakthrough design that realizes Thought to text via fMRI: https:/
 # Extension for a more genuine stimulation experience
 The simulator can work without anyone else hearing what it tells you. This can be achieved by replacing the speaker that comes in the $5 kit with Audio Splotlight, however the cheapest unit Holosonics AS-168iX costs $1,299 https://www.touchwindow.com/p/AS-168iX.html
 
+# Extension to simulate an agent-victim interaction which happens automatically (two modules talking to each other)
+The simulator is currently conceptualized to simulate a victim. It is however possible to buy the same $5 electronics twice, and make the modules talk to each other to simulate a whole interaction for an objective observer.
+
+# Extension to simulate an interactive agent-victim interaction mediated by 2 people
+With two $5 modules, it is possible to develop one module as an agent who can create custom CEP rules, enable/disable them, and enable/disable harassment of a victim that way. For example, when the agent says a command "turn the harassment on/off" the victim module should start/stop responding to what the victim thinks. These two modules can be tested with two people who will be at home and use the Internet to connect their speaker/mic from the agent module to the victim module.
+
+This model lets an agent do espionage by listening what the victim is thinking, coming up with extremely arrogant putdowns, creating rules, and then turning them on all at the same time. From that time onward, the victim will hear those putdowns played automatically based on rules. Responses will be played based on what the victim is thinking. Compared to the real phenomenon, this will lack adaptivity, so putdowns that stopped having a negative impact on the victim won't get automatically replaced with new ones. If the victim would wear EEG that could measure negative effect (stress, etc.) caused by the putdowns, there could be an automated adaptive loop to ditch pre-recorded putdowns when their impact becomes low, in order to keep playing high-impact putdowns to the victim.
