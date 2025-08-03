@@ -1,4 +1,4 @@
-# Targeted Individual Simulator (v0.2.1)
+# Targeted Individual Simulator (v0.2.2)
 
 ## ⚠️ Disclaimer
 
@@ -43,7 +43,7 @@ One possible breakthrough design that realizes Thought to text via fMRI: https:/
 # Extension for a more genuine stimulation experience
 The simulator can work without anyone else hearing what it tells you. This can be achieved by replacing the speaker that comes in the $5 kit with Audio Splotlight, however the cheapest unit Holosonics AS-168iX costs $1,299 https://www.touchwindow.com/p/AS-168iX.html
 
-# Extension to simulate an agent-victim interaction which happens automatically (two modules talking to each other)
+# Extension to simulate an automated agent-victim interaction (two modules talking to each other)
 The simulator is currently conceptualized to simulate a victim. It is however possible to buy the same $5 electronics twice, and make the modules talk to each other to simulate a whole interaction for an objective observer.
 
 # Extension to simulate an interactive agent-victim interaction mediated by 2 people
