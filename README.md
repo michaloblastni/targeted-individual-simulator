@@ -38,7 +38,7 @@ Until thought to speech and speech to tought are researched and developed, the s
 
 # Extension for a more genuine sensing experience
 The simulator can work without having to speak loud while you're thinking. This can be achieved using Thought2Text https://github.com/abhijitmishra/Thought2Text It is currently an EEG-based solution. It is not ready for production use. An EEG device with 16 channels costs around $1000.
-One possible breakthrough design that realizes Thought to speech via fMRI: https://www.nature.com/articles/s41593-023-01304-9 
+One possible breakthrough design that realizes Thought to text via fMRI: https://www.nature.com/articles/s41593-023-01304-9 
 
 # Extension for a more genuine stimulation experience
 The simulator can work without anyone else hearing what it tells you. This can be achieved by replacing the speaker that comes in the $5 kit with Audio Splotlight, however the cheapest unit Holosonics AS-168iX costs $1,299 https://www.touchwindow.com/p/AS-168iX.html
