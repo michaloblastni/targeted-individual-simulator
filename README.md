@@ -1,7 +1,5 @@
 # Targeted Individual Simulator (v0.2.2)
 
-![AI Thinker](ai_thinker.png)
-
 ## ⚠️ Disclaimer
 
 This project is an **interactive simulator** inspired by real testimonies from individuals who identify as *Targeted Individuals*.  
@@ -27,6 +25,8 @@ The system is an Intelligent (Autonomous) Agent https://en.wikipedia.org/wiki/In
 It can be modeled conceptually as the sense, reason and act framework.
 
 # Physical design
+![AI Thinker](ai_thinker.png)
+
 $5 electronics can implement the sense, reason and act framework. It is an offline voice recognition agent that reasons and acts (incl. by responding with voice): 
 https://www.youtube.com/watch?v=dAqX4CmozfM&ab_channel=techiesms
 
