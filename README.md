@@ -1,5 +1,7 @@
 # Targeted Individual Simulator (v0.2.2)
 
+![AI Thinker](ai_thinker.png)
+
 ## ⚠️ Disclaimer
 
 This project is an **interactive simulator** inspired by real testimonies from individuals who identify as *Targeted Individuals*.  
